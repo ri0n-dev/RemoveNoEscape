@@ -1,0 +1,9 @@
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\bin\Debug\RemoveNoEscape.exe.config
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\bin\Debug\RemoveNoEscape.exe
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\bin\Debug\RemoveNoEscape.pdb
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.csproj.AssemblyReference.cache
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.Properties.Resources.resources
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.csproj.GenerateResource.cache
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.csproj.CoreCompileInputs.cache
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.exe
+F:\Visual Studio\RemoveNoEscape\RemoveNoEscape\RemoveNoEscape\obj\Debug\RemoveNoEscape.pdb
